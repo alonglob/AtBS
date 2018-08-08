@@ -11,8 +11,6 @@ from PIL import Image
 import numpy as np
 import os
 from matplotlib import pyplot as plt
-from threading import Thread
-import math
 
 
 def create_source_arr(source_image_path):
